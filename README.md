@@ -9,7 +9,7 @@ Capstone project for STAT 222 at UC Berkeley. Supervised by Libor Pospisil.
 ## Repository Navigation
 
 ```
-drugs
+drug overdoses
 │   README.md   
 └─── Analysis
 │   │
